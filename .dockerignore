@@ -1,6 +1,0 @@
-.git
-.gitignore
-vendor
-node_modules
-.env
-storage/logs
